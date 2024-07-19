@@ -3,4 +3,4 @@ first repo
 <br>
 My first repo
 <br>
-Author-Pratyush
+Author-Pratyush Singh
